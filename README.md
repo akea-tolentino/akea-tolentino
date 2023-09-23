@@ -7,7 +7,7 @@ My name is Jamesbradley Tolentino (also known by Akea), and I am a full stack so
 - Proficient in Javascript and Ruby
 - Comfortable working with React-Redux, Rails, and the MERN stack
 - I am...
-- - an App Academy alumni
+  - an App Academy alumni
   - a problem solver
   - an avid gamer
   - a kpop enthusiast
